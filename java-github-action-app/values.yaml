@@ -8,7 +8,7 @@ image:
   repository: ghcr.io/asimmanzoor/demo-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0.0.2-93701f6
+  tag: 0.0.2-7537e88
 
 imagePullSecrets: []
 nameOverride: ""
