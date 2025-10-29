@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/asimmanzoor/demo-app
+  repository: ghcr.io/asimmanzoor/java-github-action-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0.0.2-2596732
+  tag: c3a1505
 
 imagePullSecrets: []
 nameOverride: ""
